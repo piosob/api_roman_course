@@ -2,7 +2,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-family: 'Helvetica', sans-serif;
+  font-family: "Helvetica", sans-serif;
 }
 
 .container {
@@ -23,7 +23,9 @@ body {
   grid-column: 2 / 2;
 }
 
-.beer--title, .beer--description, .beer-tagline {
+.beer--title,
+.beer--description,
+.beer-tagline {
   margin: 0;
 }
 
